@@ -30,7 +30,7 @@
     <version.primefaces-themes>1.1.0</version.primefaces-themes>
     <version.fontawesome>4.7.0</version.fontawesome>
     <!-- Other -->
-    <version.swagger>1.6.9</version.swagger>
+    <version.swagger>1.6.16</version.swagger>
     <version.log4j>2.19.0</version.log4j>
     <!--Maven Plugins & co-->
     <version.maven.wildfly.plugin>4.0.0.Final</version.maven.wildfly.plugin>
